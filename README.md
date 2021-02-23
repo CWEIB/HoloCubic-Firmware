@@ -1,9 +1,11 @@
 
 # HoloCubic--多功能透明显示屏桌面站
 
-**视频介绍：** https://www.bilibili.com/video/BV1VA411p7MD/
+**原作者视频介绍：** https://www.bilibili.com/video/BV1VA411p7MD/
 
-**制作过程介绍：**https://www.bilibili.com/video/BV1bN411R7Lx/
+**原作者的Github：** https://github.com/peng-zhihui/HoloCubic
+
+**制作过程视频：** https://www.bilibili.com/video/BV1bN411R7Lx/
 
 ## 1. 固件编译说明
 
